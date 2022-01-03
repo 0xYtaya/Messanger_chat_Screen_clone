@@ -1,6 +1,7 @@
 # Messanger Screen Chat Clone
 
-A new Flutter project.
+## Demo 
+![Alt Text](https://github.com/BleedTheFreak/Messanger_chat_Screen_clone/blob/master/Screen-Recording-2022-01-03-at-6.gif)
 
 ## Getting Started
 
